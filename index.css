@@ -1,0 +1,35 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        }
+
+
+    .Trapezium{
+        position: absolute;
+        right: 0;
+        width: 50%;
+        height: 100%;
+        clip-path: polygon(50% 0, 100% 0%, 100% 100%, 0% 100%);
+        background-color: #F6B400;right: 0;
+        }
+        .nav{
+            position: absolute;
+            top: 20px;
+            right:400px;
+        }
+        .burger{
+            display: inline;
+            padding-top: 10px;
+         
+        }
+        h1{
+            display: inline;
+            align-items: center;
+            align-content: center;
+        }
+        .header{
+            align-content: center important ;
+            align-items: center;
+        }
