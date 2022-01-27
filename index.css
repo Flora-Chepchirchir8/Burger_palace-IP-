@@ -94,13 +94,40 @@
             margin-top: 42%;
             justify-content: center;
             display: flex;
+            justify-content: space-between;
            
         }
         .quality{
             border: 1px solid maroon;
             border-radius: 16px;
-            margin: 4%;
-            
+          padding-top:80px;
+          padding-bottom:30px ;
+          padding-left: 30px;
+          padding-right:30px ;
+          text-align: center;
+
+        }
+        .fast{
+            border: 1px solid maroon;
+            border-radius: 16px;
+          padding-top:80px;
+          padding-bottom:30px ;
+          padding-left: 30px;
+          padding-right:30px ;
+          text-align: center;
+
         }
 
+        .meal{
+            border: 1px solid maroon;
+            border-radius: 16px;
+          padding-top:80px;
+          padding-bottom:30px ;
+          padding-left: 30px;
+          padding-right:30px ;
+          text-align: center;
+
+
+        }
+        
 
