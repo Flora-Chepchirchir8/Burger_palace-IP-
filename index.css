@@ -62,12 +62,15 @@
            
         }
         button{
+            position:absolute;
             background: #F6B400;
             font-size: 16px;
-            padding: 16px 30px;
+            padding: 20px 50px;
             border: none;
             border-radius: 30px;
             border-bottom-right-radius: 0;
+           
+
             
         }
        
@@ -87,11 +90,17 @@
         }
         .menu{
             padding: 40px;
-            background-color: rgb(190, 245, 236);
-            margin-top: 30%;
+            background-color: rgb(237, 252, 249);
+            margin-top: 42%;
             justify-content: center;
             display: flex;
            
+        }
+        .quality{
+            border: 1px solid maroon;
+            border-radius: 16px;
+            margin: 4%;
+            
         }
 
 
