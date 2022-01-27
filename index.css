@@ -20,6 +20,7 @@
             right:58px;
             text-decoration: none;
             list-style: none;
+          
         }
         .nav,ul{
             display: flex;
@@ -34,6 +35,7 @@
         margin-left: 0%;
         color: black;
         font-size: 20px;
+        font-weight: bold;
         
      }
         
@@ -255,6 +257,11 @@
         margin-left: 10%;
         padding-top: 50px;
     }
+    .footer{
+        margin-top: 100%;
+        background-color: #F6B400;
+    }
+    
 
 
 
