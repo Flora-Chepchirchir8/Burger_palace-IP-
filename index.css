@@ -4,7 +4,9 @@
         padding: 0px;
         box-sizing: border-box;
         }
-   
+   html body{
+       border: 2px solid black;
+   }
 
     .Trapezium{
         position: absolute;
@@ -50,7 +52,7 @@
             align-items: center;
             align-content: center;
             font-weight: bold;
-            font-size: 50px;
+            font-size: 60px;
         }
         .header{
             align-content: center important ;
