@@ -257,36 +257,24 @@
         margin-left: 10%;
         padding-top: 50px;
     }
-    .footer{
-        margin-top: 100%;
-        background-color: #F6B400;
-    }
+    
     .images{
         padding-top: 15%;
     }
-    .section >p{
+    .more >p{
         font-size: 30px;
-        padding-left: 20%;
-        padding-top: 90%;
+        padding-left: 30%;
+        padding-top: 80%;
         font-weight: bold;
+      
     }
-    .play{
-        margin-top: 10%;
-        display: flex;
-        color: rgb(254, 184, 23);
-        padding-left: 20%;
-    }
-    .hey{
-        margin-right: 8%;
-        
-        
-    }
-    .mobile{
+   
+    .footer{
         margin-top: 100%;
         display: flex;
         background-color:rgb(254, 184, 23);
     }
-    .cute{
+    .mobile{
         padding-top: 20%;
         padding-left: 30%;
     }
